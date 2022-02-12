@@ -38,6 +38,14 @@ body{
 
 .text_block{
     text-align: center;
+    margin-top: 10%;
+    width: 100%;
+}
+
+.Profile_info{
+    justify-content: space-around;
+    width: 50%;
+    display: flex;
 }
 
 ul{
@@ -53,8 +61,13 @@ ul{
     justify-content: space-around;
     align-items: center;
     height: 60%;
+    position: relative;
 }
 
 .avatar{
     position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50% 50%;
 }

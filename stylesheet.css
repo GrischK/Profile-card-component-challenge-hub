@@ -15,7 +15,7 @@ body{
     background-color: hsl(185, 75%, 39%);
     background-image: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
     background-repeat: no-repeat;
-    background-position: -71% 240%, 140% -260%;
+    background-position: -55% 210%, 140% -150%;
 }
 
 *{
